@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ECE414_Examples_LafayetteCollege/touchscreen_demo"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tftmaster.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
